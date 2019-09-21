@@ -1,0 +1,2 @@
+hash functions bloom filter
+hash functions minhash
